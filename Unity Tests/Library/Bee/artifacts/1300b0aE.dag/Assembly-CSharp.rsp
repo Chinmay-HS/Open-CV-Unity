@@ -362,8 +362,6 @@
 "Assets/BlueprintLoader.cs"
 "Assets/DRMAndroid.cs"
 "Assets/DRMPC.cs"
-"Assets/Projectile.cs"
-"Assets/WallStress.cs"
 -langversion:9.0
 /deterministic
 /optimize+
